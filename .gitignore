@@ -1,0 +1,24 @@
+# Logs
+OnlyText-Frontend/logs
+OnlyText-Frontend/*.log
+OnlyText-Frontend/npm-debug.log*
+OnlyText-Frontend/yarn-debug.log*
+OnlyText-Frontend/yarn-error.log*
+OnlyText-Frontend/pnpm-debug.log*
+OnlyText-Frontend/lerna-debug.log*
+
+OnlyText-Frontend/node_modules
+OnlyText-Frontend/dist
+OnlyText-Frontend/dist-ssr
+OnlyText-Frontend/*.local
+
+# Editor directories and files
+OnlyText-Frontend/.vscode/*
+OnlyText-Frontend/!.vscode/extensions.json
+OnlyText-Frontend/.idea
+OnlyText-Frontend/.DS_Store
+OnlyText-Frontend/*.suo
+OnlyText-Frontend/*.ntvs*
+OnlyText-Frontend/*.njsproj
+OnlyText-Frontend/*.sln
+OnlyText-Frontend/*.sw?
