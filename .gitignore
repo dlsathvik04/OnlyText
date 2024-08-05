@@ -22,3 +22,9 @@ OnlyText-Frontend/*.ntvs*
 OnlyText-Frontend/*.njsproj
 OnlyText-Frontend/*.sln
 OnlyText-Frontend/*.sw?
+
+
+OnlyText-Backend-Go/bin
+OnlyText-Backend-Go/.env
+
+# OnlyText-Backend/
