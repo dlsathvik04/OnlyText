@@ -1,2 +1,10 @@
+github.com/dlsathvik04/golibs/dotenv v0.0.0-20240821040649-3f967712768a h1:/Wphp9MJogYPK9RiLx0Zq5L5Gzoiw2UEJ1tqdMSDbSg=
+github.com/dlsathvik04/golibs/dotenv v0.0.0-20240821040649-3f967712768a/go.mod h1:cajthbMOhkeLBh7QAheaVji22xktEE8N705rLBAeEuY=
+github.com/dlsathvik04/golibs/hasher v0.0.0-20240821040649-3f967712768a h1:favj+3DaDCdlSRt7PSq/K915SN/Bd6JEx06F6JWo8Ww=
+github.com/dlsathvik04/golibs/hasher v0.0.0-20240821040649-3f967712768a/go.mod h1:HQdKjKYCwOR/fvTfmRJM5GLxuuu+lw8EPvqT1+HU5Js=
+github.com/dlsathvik04/golibs/jsonresponse v0.0.0-20240821040649-3f967712768a h1:+tSZtr8x6GaEyuEkKywiDZeBmV3EWqteAvL6KIcHAKs=
+github.com/dlsathvik04/golibs/jsonresponse v0.0.0-20240821040649-3f967712768a/go.mod h1:SehoCkrb3vBR1lqFSVT1rml2ww44YnI83RHX5DuH7lg=
+github.com/dlsathvik04/golibs/jwt v0.0.0-20240821040649-3f967712768a h1:3LTjXLQvCd24+jUo00SoOrCnIF6LD6pP9uViNhlt2Zo=
+github.com/dlsathvik04/golibs/jwt v0.0.0-20240821040649-3f967712768a/go.mod h1:LrBT+He6DBl1+dsrNqFutq38INUTA5ULYRIYTJAlZxA=
 github.com/lib/pq v1.10.9 h1:YXG7RB+JIjhP29X+OtkiDnYaXQwpS4JEWq7dtCCRUEw=
 github.com/lib/pq v1.10.9/go.mod h1:AlVN5x4E4T544tWzH6hKfbfQvm3HdbOxrmggDNAPY9o=

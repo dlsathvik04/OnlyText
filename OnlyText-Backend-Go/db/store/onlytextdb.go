@@ -5,10 +5,6 @@ import (
 	"fmt"
 )
 
-type OnlyTextDB interface {
-	GetUserByID(id string)
-}
-
 type OnlyTextStorage struct {
 	Store Store
 }
